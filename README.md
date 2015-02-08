@@ -1,5 +1,5 @@
 # Form.js
-An javascript file which will give your forms the power of AJAX if the user allows it!
+A javascript file which will give your forms the power of AJAX if the user allows it!
 
 ##What you need to know...
 Form.js will utilise AJAX when it can however if the user has javascript disabled or can't support AJAX, forms will be sent in the standard method which requires a page refresh...
