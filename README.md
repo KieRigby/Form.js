@@ -1,5 +1,5 @@
 # Form.js
-A javascript file which will give your forms the power of AJAX if the user allows it!
+A javascript file which will give your forms the power of AJAX if the user allows it!<br>
 NOTE - JQUERY IS REQUIRED TOO!!!
 
 ##What you need to know...
